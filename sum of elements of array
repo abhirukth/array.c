@@ -1,1 +1,12 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+
+
+printf("im too good \n");
+
+
+return 0;
+}
 
